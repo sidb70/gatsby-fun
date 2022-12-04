@@ -1,4 +1,4 @@
-# https://gatsbyfunmain58874.gatsbyjs.io/
+# [View the site](https://gatsbyfunmain58874.gatsbyjs.io/)
 Exploring Gatsby
 
 MSU MI 349
