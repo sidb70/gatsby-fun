@@ -1,0 +1,19 @@
+import * as React from 'react'
+import Layout from '../components/layout'
+import Seo from '../components/seo'
+const About = ()=>{
+    return (
+        <Layout pageTitle="About Me">
+            <p>Hi there! I'm the proud creator of this site, which I built using Gatsby.</p>
+        </Layout>
+    )
+};
+
+export const Head = ()=> (
+    <>
+        <Seo title='About Me'/>
+        <meta name="Sid's About page" content='About'></meta>
+    </>)
+
+export default About;
+
